@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 [![Twitter: sangnakAbhiynta](https://img.shields.io/twitter/follow/sangnakAbhiynta?style=social)](https://twitter.com/sangnakAbhiynta)
 [![Linkedin: SanganakAbhiyanta](https://img.shields.io/badge/-SanganakAbhiyanta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SanganakAbhiyanta/)](https://www.linkedin.com/in/SanganakAbhiyanta/)
-[![GitHub Sanganak-Abiyanta](https://img.shields.io/github/followers/Sanganak-Abiyanta?label=follow&style=social)](https://github.com/Sanganak-Abiyanta)
+[![GitHub Sanganak-Abhiyanta](https://img.shields.io/github/followers/Sanganak-Abhiyanta?label=follow&style=social)](https://github.com/Sanganak-Abhiyanta)
 [![website](https://img.shields.io/badge/PortfolioWebsite-sarkar.live-2648ff?style=flat-square&logo=google-chrome)](https://sarkar.live/)
 
 **Languages and Tools:**
